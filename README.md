@@ -13,6 +13,6 @@ Temporal: 13 years daily observations (2010-2022); Spatial: 22 sub-basin of Nakd
 
 
 
-#Sources of data: 
-#Water quality data from Korea Ministry of Environment, National Institute of Environmental Research (NIER) (https://water.nier.go.kr/); 
-#Hydrometeorological data (P, T) from Korean Water Resources Management Information System (https://www.wamis.go.kr/)
+# Sources of data: 
+# Water quality data from Korea Ministry of Environment, National Institute of Environmental Research (NIER) (https://water.nier.go.kr/); 
+# Hydrometeorological data (P, T) from Korean Water Resources Management Information System (https://www.wamis.go.kr/)
