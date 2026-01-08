@@ -1,5 +1,5 @@
 # nakdong-chla-drought-dynamics
-WRR Data repository: Intra-annual chlorophyll-a dynamics under hydroclimatic extremes in Nakdong River Basin (2010-2022)
+WRR Data repository: Intra-annual chlorophyll-a dynamics under hydroclimatic extremes derived from a 44-year baseline: insights from a temperate river system (Nakdong River Basin, South Korea)
 
 # Nakdong river water quality and drought indices dataset (2010-2022)
 
